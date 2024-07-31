@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="./gifImage.gif"/>
 
 - 🔭 I’m currently working on
-  - [VideoTube Server](https://github.com/suraj946/videotube-server)
+  - [Thekedar Pro Server](https://github.com/suraj946/thekedar-pro-server)
   - [Thekedar Pro App](https://github.com/suraj946/thekedar-pro-app)
 
 - 🌱 I’m currently learning **React-Native**
