@@ -7,8 +7,7 @@
 <img align="right" alt="Coding" width="400" src="./gifImage.gif"/>
 
 - 🔭 I’m currently working on
-  - [Thekedar Pro Server](https://github.com/suraj946/thekedar-pro-server)
-  - [Thekedar Pro App](https://github.com/suraj946/thekedar-pro-app)
+  - [Goss Up UI](https://github.com/suraj946/goss-up-ui)
 
 - 🌱 I’m currently learning **React-Native**
 
