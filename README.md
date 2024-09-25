@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on
   - [Goss Up UI](https://github.com/suraj946/goss-up-ui)
+  - [Goss Up Server](https://github.com/suraj946/goss-up-server)   
 
 - 🌱 I’m currently learning **React-Native**
 
