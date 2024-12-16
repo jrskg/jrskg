@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj946&label=Profile%20views&color=0e75b6&style=flat" alt="suraj946" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrskg&label=Profile%20views&color=0e75b6&style=flat" alt="jrskg" /> </p>
 
 <img align="right" alt="Coding" width="400" src="./gifImage.gif"/>
 
 - 🔭 I’m currently working on
-  - [Goss Up UI](https://github.com/suraj946/goss-up-ui)
-  - [Goss Up Server](https://github.com/suraj946/goss-up-server)   
+  - [Goss Up UI](https://github.com/jrskg/goss-up-ui)
+  - [Goss Up Server](https://github.com/jrskg/goss-up-server)   
 
 - 🌱 I’m currently learning **React-Native**
 
@@ -236,6 +236,6 @@
         />
       </a>
     </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj946&show_icons=true&locale=en&layout=compact" alt="suraj946" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrskg&show_icons=true&locale=en&layout=compact" alt="jrskg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj946&show_icons=true&locale=en" alt="suraj946" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrskg&show_icons=true&locale=en" alt="jrskg" /></p>
