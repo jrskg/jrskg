@@ -7,8 +7,7 @@
 <img align="right" alt="Coding" width="400" src="./gifImage.gif"/>
 
 - 🔭 I’m currently working on
-  - [Goss Up UI](https://github.com/jrskg/goss-up-ui)
-  - [Goss Up Server](https://github.com/jrskg/goss-up-server)   
+  - [Goss Up MonoRepo](https://github.com/jrskg/gossup-repo)
 
 - 🌱 I’m currently learning **React-Native**
 
